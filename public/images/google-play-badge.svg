@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" width="200" height="60" role="img" aria-label="Get it on Google Play">
+  <rect width="200" height="60" rx="10" fill="#000"></rect>
+  <g transform="translate(14 14)">
+    <defs>
+      <linearGradient id="gp-a" x1="-5" y1="-5" x2="20" y2="30" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#00A0FF"></stop><stop offset="1" stop-color="#00C7FF"></stop>
+      </linearGradient>
+      <linearGradient id="gp-b" x1="25" y1="-4" x2="12" y2="16" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#FFE000"></stop><stop offset="1" stop-color="#FFBD00"></stop>
+      </linearGradient>
+      <linearGradient id="gp-c" x1="28" y1="32" x2="2" y2="32" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#FF3A44"></stop><stop offset="1" stop-color="#C31162"></stop>
+      </linearGradient>
+      <linearGradient id="gp-d" x1="-4" y1="35" x2="12" y2="20" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#32A071"></stop><stop offset=".07" stop-color="#2DA771"></stop><stop offset=".48" stop-color="#15CF74"></stop><stop offset=".8" stop-color="#06E775"></stop><stop offset="1" stop-color="#00F076"></stop>
+      </linearGradient>
+    </defs>
+    <path d="M.5 1.4C.2 1.8 0 2.3 0 3v26c0 .7.2 1.2.5 1.6l18-17.8-18-11.4z" fill="url(#gp-a)"></path>
+    <path d="M23 17.1l-4.5-4.3L.5 30.6c.5.5 1.2.5 2 .1L23 17.1z" fill="url(#gp-c)"></path>
+    <path d="M23 17.1l-4.5-4.3L.5 1.4c-.3-.3-.5-.8-.5-1.4l18 11.4L23 17.1z" fill="url(#gp-b)" transform="translate(0 0)"></path>
+    <path d="M23 17.1l5-3.2c.8-.4 1.5-.5 1.5-1.4 0-.8-.7-1-1.5-1.4l-5-2.8-4.5 4.3L23 17.1z" fill="url(#gp-d)"></path>
+  </g>
+  <g fill="#fff">
+    <text x="54" y="25" font-family="-apple-system,BlinkMacSystemFont,&#39;Segoe UI&#39;,Roboto,sans-serif" font-size="8" font-weight="400">GET IT ON</text>
+    <text x="54" y="45" font-family="-apple-system,BlinkMacSystemFont,&#39;Segoe UI&#39;,Roboto,sans-serif" font-size="18" font-weight="600" letter-spacing="-0.3">Google Play</text>
+  </g>
+</svg>
